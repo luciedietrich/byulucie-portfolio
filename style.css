@@ -1,0 +1,119 @@
+/* Write some CSS below */
+.container {
+    margin: 20px 0px;
+}
+.banner h1 {
+    color: #fffcfc;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  width: 600px;
+    margin: 0 auto;
+    font-size: 3em;
+    margin-bottom: 20px;
+    margin-top: 250px;
+    white-space: nowrap;
+}
+.banner h2 {
+    color: #FEFBF6;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  width: 500px;
+    margin: 0 auto;
+    margin-bottom: 23px;
+}
+.banner a {
+    color: #fdfaf6;
+    font-family: "Barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  width: 300px;
+  margin: 0 auto;
+}
+.btn-black {
+  display: inline-block;
+  padding: 10px 20px; 
+  font-size: 16px;
+  font-weight: bold; 
+  text-align: center;
+  text-decoration: none;
+  background-color: #111211; 
+  border: 2px solid #0d0e0d; 
+  border-radius: 5px; 
+  cursor: pointer;
+}
+.banner .btn-black {
+  margin-top: 20px; 
+  width: 90px; /
+  padding: 10px 20px;
+  font-size: 16px;
+}
+.banner {
+  background-image: url("images/background\ image.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  text-align: center;
+  padding-top: 50px;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.container h2 {
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  margin-top: 90px;
+  font-size: 40px;
+  margin-bottom: 100px;
+}
+
+.photoshoot p {
+    color: #000000;
+    font-family: "Barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.photoshoot img {
+    border-radius: 4px
+}
+
+.photoshoot p {
+    color: #000000;
+    font-family: "Barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.photoshoot img {
+    border-radius: 4px
+}
+
+.photoshoot p {
+    color: #000000;
+    font-family: "Barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.photoshoot img {
+    border-radius: 4px
+}
+
+.cards {
+  display: flex; /* Utilise flexbox pour aligner les images côte à côte */
+}
+
+.cards img {
+  margin-right: 10px; /* Marge à droite pour l'espace entre les images */
+}
+
+.footer p {
+    color: #000000;
+    font-family: "Barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
